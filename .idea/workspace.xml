@@ -5,62 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4a04c8af-c0fc-4672-9291-26c3fe03e7b2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/hometask4/node_modules/.package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hometask4/node_modules/fs-extra/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hometask4/node_modules/fs-extra/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hometask4/node_modules/fs-extra/lib/copy/copy-sync.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hometask4/node_modules/fs-extra/lib/copy/copy.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hometask4/node_modules/fs-extra/lib/copy/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hometask4/node_modules/fs-extra/lib/empty/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hometask4/node_modules/fs-extra/lib/ensure/file.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hometask4/node_modules/fs-extra/lib/ensure/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hometask4/node_modules/fs-extra/lib/ensure/link.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hometask4/node_modules/fs-extra/lib/ensure/symlink-paths.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hometask4/node_modules/fs-extra/lib/ensure/symlink-type.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hometask4/node_modules/fs-extra/lib/ensure/symlink.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hometask4/node_modules/fs-extra/lib/esm.mjs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hometask4/node_modules/fs-extra/lib/fs/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hometask4/node_modules/fs-extra/lib/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hometask4/node_modules/fs-extra/lib/json/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hometask4/node_modules/fs-extra/lib/json/jsonfile.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hometask4/node_modules/fs-extra/lib/json/output-json-sync.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hometask4/node_modules/fs-extra/lib/json/output-json.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hometask4/node_modules/fs-extra/lib/mkdirs/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hometask4/node_modules/fs-extra/lib/mkdirs/make-dir.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hometask4/node_modules/fs-extra/lib/mkdirs/utils.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hometask4/node_modules/fs-extra/lib/move/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hometask4/node_modules/fs-extra/lib/move/move-sync.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hometask4/node_modules/fs-extra/lib/move/move.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hometask4/node_modules/fs-extra/lib/output-file/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hometask4/node_modules/fs-extra/lib/path-exists/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hometask4/node_modules/fs-extra/lib/remove/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hometask4/node_modules/fs-extra/lib/util/stat.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hometask4/node_modules/fs-extra/lib/util/utimes.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hometask4/node_modules/fs-extra/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hometask4/node_modules/graceful-fs/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hometask4/node_modules/graceful-fs/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hometask4/node_modules/graceful-fs/clone.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hometask4/node_modules/graceful-fs/graceful-fs.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hometask4/node_modules/graceful-fs/legacy-streams.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hometask4/node_modules/graceful-fs/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hometask4/node_modules/graceful-fs/polyfills.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hometask4/node_modules/jsonfile/CHANGELOG.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hometask4/node_modules/jsonfile/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hometask4/node_modules/jsonfile/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hometask4/node_modules/jsonfile/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hometask4/node_modules/jsonfile/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hometask4/node_modules/jsonfile/utils.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hometask4/node_modules/universalify/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hometask4/node_modules/universalify/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hometask4/node_modules/universalify/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hometask4/node_modules/universalify/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/hometask3/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/file.js" beforeDir="false" afterPath="$PROJECT_DIR$/hometask4/file.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/hometask4/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/hometask4/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project.txt" beforeDir="false" afterPath="$PROJECT_DIR$/hometask3/project.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hometask3/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/hometask3/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,13 +24,16 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="feature" />
+        <entry key="$PROJECT_DIR$" value="ht_4" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="DEPENDENCY_CHECKER_PROBLEMS_TAB" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
@@ -93,28 +43,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;ht__4&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/antoh/HomeTask&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "ht__6",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/antoh/it_academy",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
-  <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\antoh\HomeTask\hometask4" />
-      <recent name="C:\Users\antoh\HomeTask\hometask3" />
-      <recent name="C:\Users\antoh\HomeTask" />
-    </key>
-  </component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -124,26 +67,14 @@
       <option name="presentableId" value="Default" />
       <updated>1706535690094</updated>
       <workItem from="1706535691083" duration="2249000" />
-      <workItem from="1706538811621" duration="10146000" />
-      <workItem from="1706559245657" duration="726000" />
-      <workItem from="1706598906460" duration="364000" />
-      <workItem from="1706623446318" duration="13957000" />
-      <workItem from="1707032970178" duration="6513000" />
+      <workItem from="1706538811621" duration="3288000" />
+      <workItem from="1707137253652" duration="923000" />
+      <workItem from="1707376886973" duration="609000" />
+      <workItem from="1707397474781" duration="2091000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
   </component>
 </project>
