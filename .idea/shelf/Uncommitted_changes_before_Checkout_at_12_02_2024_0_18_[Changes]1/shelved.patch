@@ -1,0 +1,139 @@
+Index: hometask7/3.js
+===================================================================
+diff --git a/hometask7/3.js b/hometask7/3.js
+new file mode 100644
+--- /dev/null	
++++ b/hometask7/3.js	
+@@ -0,0 +1,35 @@
++ let arr = [12, 15, 20, 25, 59, 79];
++// Найдите среднее арифметическое элементов.
++
++
++
++// 1 способ через цикл for:
++ function findAverage(arr) {
++   let sum = 0;
++   for (let i = 0; i < arr.length; i++) {
++       sum += arr[i];
++   }
++     return sum/arr.length;
++ }
++
++ console.log(findAverage(arr));
++
++
++
++// 2 способ через ForEach:
++function findAverage1(arr1) {
++    let sum1 = 0;
++    arr.forEach(function(arrayElement) {
++        sum1 += arrayElement;
++    });
++    return sum1 / arr.length;
++}
++
++console.log(findAverage1(arr));
++
++
++
++// 3 способ через Reduce:
++const sum2 = (arr.reduce((prev,curr) => (prev + curr))/arr.length);
++
++console.log (sum2);
+\ No newline at end of file
+Index: hometask7/2.js
+===================================================================
+diff --git a/hometask7/2.js b/hometask7/2.js
+new file mode 100644
+--- /dev/null	
++++ b/hometask7/2.js	
+@@ -0,0 +1,27 @@
++// Дана строка из четного количества цифр.
++const number = 1569289213;
++// Проверьте, что сумма первых трех цифр равняется сумме вторых трех цифр.
++// Если это так - выведите 'да', в противном случае выведите 'нет'.
++
++    function checkSumm(num) {
++    let strNum = number.toString();
++    let firstHalf = strNum.slice(0, strNum.length / 2);               // для 3 цифр: (0,3)
++    let secondHalf = strNum.slice(strNum.length / 2);                // а тут просто (3)
++
++    let sumFirstHalf = 0;
++    let sumSecondHalf = 0;
++
++    for (let i = 0; i < strNum.length / 2; i++) {                 // и тут, конечно же, i < 3
++        sumFirstHalf += Number(firstHalf[i]);
++        sumSecondHalf += Number(secondHalf[i]);
++    }
++    console.log(sumFirstHalf);
++    console.log(sumSecondHalf);
++    if (sumFirstHalf === sumSecondHalf) {
++        return 'да';
++    } else {
++        return 'нет';
++    }
++}
++
++console.log(checkSumm());
+Index: hometask7/1.js
+===================================================================
+diff --git a/hometask7/1.js b/hometask7/1.js
+new file mode 100644
+--- /dev/null	
++++ b/hometask7/1.js	
+@@ -0,0 +1,16 @@
++function countFriday13(startDate) {
++    let currentDate = new Date();
++    let count = 0;
++
++    while (startDate < currentDate) {
++        if (startDate.getDate() == 13 && startDate.getDay() == 5) {
++            count++;
++        }
++        startDate.setMonth(startDate.getMonth() + 1);
++    }
++    return count;
++}
++
++let startDate = new Date('2000-01-01');
++
++console.log(countFriday13(startDate));
+\ No newline at end of file
+Index: hometask7/package-lock.json
+===================================================================
+diff --git a/hometask7/package-lock.json b/hometask7/package-lock.json
+new file mode 100644
+--- /dev/null	
++++ b/hometask7/package-lock.json	
+@@ -0,0 +1,13 @@
++{
++  "name": "hometask7",
++  "version": "1.0.0",
++  "lockfileVersion": 3,
++  "requires": true,
++  "packages": {
++    "": {
++      "name": "hometask7",
++      "version": "1.0.0",
++      "license": "ISC"
++    }
++  }
++}
+Index: hometask7/package.json
+===================================================================
+diff --git a/hometask7/package.json b/hometask7/package.json
+new file mode 100644
+--- /dev/null	
++++ b/hometask7/package.json	
+@@ -0,0 +1,11 @@
++{
++  "name": "hometask7",
++  "version": "1.0.0",
++  "description": "",
++  "main": "1.js",
++  "scripts": {
++    "test": "echo \"Error: no test specified\" && exit 1"
++  },
++  "author": "",
++  "license": "ISC"
++}
