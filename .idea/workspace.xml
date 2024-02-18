@@ -62,6 +62,7 @@
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/hometask4/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/project.txt" beforeDir="false" afterPath="$PROJECT_DIR$/hometask3/project.txt" afterDir="false" />
     </list>
+>>>>>>>>> Temporary merge branch 2
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -93,6 +94,8 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
+<<<<<<<<< Temporary merge branch 1
+=========
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
@@ -115,6 +118,7 @@
       <recent name="C:\Users\antoh\HomeTask" />
     </key>
   </component>
+>>>>>>>>> Temporary merge branch 2
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -124,11 +128,14 @@
       <option name="presentableId" value="Default" />
       <updated>1706535690094</updated>
       <workItem from="1706535691083" duration="2249000" />
+<<<<<<<<< Temporary merge branch 1
+=========
       <workItem from="1706538811621" duration="10146000" />
       <workItem from="1706559245657" duration="726000" />
       <workItem from="1706598906460" duration="364000" />
       <workItem from="1706623446318" duration="13957000" />
       <workItem from="1707032970178" duration="6513000" />
+>>>>>>>>> Temporary merge branch 2
     </task>
     <servers />
   </component>
